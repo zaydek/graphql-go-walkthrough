@@ -1,0 +1,30 @@
+schema {
+	query: Query
+	mutation: Mutation
+}
+
+type User {
+	userID: ID!
+	username: String!
+	notes: [Note!]!
+}
+
+type Note {
+	noteID: ID!
+	data: String!
+}
+
+type Query {
+	users: [User!]!
+	user(userID: ID!): User!
+	notes(userID: ID!): [Note!]!
+	note(noteID: ID!): Note!
+}
+
+input NoteInput {
+	data: String!
+}
+
+type Mutation {
+	createNote(userID: ID!, note: NoteInput!): Note!
+}
