@@ -275,8 +275,8 @@ func main() {
 	// }
 
 	q2 := ClientQuery{
-		OpName: "Users",
-		Query: `query Users($userID: ID!) {
+		OpName: "User",
+		Query: `query User($userID: ID!) {
 			user(userID: $userID) {
 				userID
 				username
