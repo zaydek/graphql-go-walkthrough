@@ -9,3 +9,7 @@ This is a series of tutorials designed to teach you (and me!) [graph-gophers/gra
 This tutorial series is designed for anyone interested in [graph-gophers/graphql-go](https://godoc.org/github.com/graph-gophers/graphql-go) and assumes familiarity with Go and GraphQL; no advanced expertise in either are needed. If you have questions or comments, please feel free to interact with me via Twitter [@username_ZAYDEK](https://twitter.com/username_ZAYDEK) or [Gophers Slack](https://invite.slack.golangbridge.org), @zaydek or in the [#graphql](https://app.slack.com/client/T029RQSE6/C2KQ4U13M) channel.
 
 Thanks!
+
+---
+
+Also check out the source code for [heroicons.dev](https://github.com/codex-src/heroicons.dev) and [100xcode](https://github.com/codex-zaydek/100xcode).
