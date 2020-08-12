@@ -6,10 +6,10 @@ This is a series of tutorials designed to teach you (and me!) GraphQL using the 
 
 <!-- This tutorial series is designed for anyone interested in [graph-gophers/graphql-go](https://godoc.org/github.com/graph-gophers/graphql-go) and assumes a basic understanding of Go and GraphQL. -->
 
-You’re more than welcome to follow-up with me by [opening an issue](https://github.com/codex-zaydek/graphql-go-walkthrough/issues) or connect with me on Twitter [@username_ZAYDEK](https://twitter.com/username_ZAYDEK).
+You’re more than welcome to [connect with me on Twitter @username_ZAYDEK](https://twitter.com/username_ZAYDEK).
 
 Thanks!
 
 ---
 
-Follow me on Twitter  [@username_ZAYDEK](https://twitter.com/username_ZAYDEK)! 🖖
+Follow me on Twitter [@username_ZAYDEK](https://twitter.com/username_ZAYDEK)! 🖖
