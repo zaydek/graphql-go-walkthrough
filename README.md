@@ -12,4 +12,4 @@ Thanks!
 
 ---
 
-Follow me on Twitter [username="ZAYDEK"](https://twitter.com/username_ZAYDEK). 🖖
+Follow me on Twitter [`username="ZAYDEK"`](https://twitter.com/username_ZAYDEK). 🖖
