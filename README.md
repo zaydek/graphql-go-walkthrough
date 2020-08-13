@@ -12,7 +12,7 @@ Thanks! 🦕
 
 ## License
 
-graphql-go-walkthrough is open source software licensed as MIT.
+GraphQL Walkthrough is open source software licensed as MIT.
 
 ---
 
