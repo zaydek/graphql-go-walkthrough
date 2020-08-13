@@ -10,6 +10,10 @@ You’re more than welcome to connect with me on Twitter [@username_ZAYDEK](http
 
 Thanks! 🦕
 
+## License
+
+graphql-go-walkthrough is open source software licensed as MIT.
+
 ---
 
 Follow me on Twitter [@username_ZAYDEK](https://twitter.com/username_ZAYDEK)! 🖖
