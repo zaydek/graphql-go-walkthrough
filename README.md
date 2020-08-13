@@ -8,7 +8,7 @@ This is a series of tutorials designed to teach you (and me!) GraphQL using the 
 
 You’re more than welcome to connect with me on Twitter [@username_ZAYDEK](https://twitter.com/username_ZAYDEK).
 
-Thanks! 🦕
+<!-- Thanks! 🦕 -->
 
 ## License
 
