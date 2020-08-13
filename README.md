@@ -12,7 +12,7 @@ Thanks! 🦕
 
 ## License
 
-GraphQL Walkthrough is open source software licensed as MIT.
+Open source software licensed as MIT.
 
 ---
 
