@@ -142,9 +142,11 @@ func (r *RootResolver) CreateNote(args CreateNoteArgs) (*NoteResolver, error) {
 	// Find user:
 	var note *Note
 	for _, user := range users {
-		// Create a note with a note ID of n-010:
-		note = &Note{NoteID: "n-010", Data: args.Note.Data}
-		user.Notes = append(user.Notes, note) // Push note.
+		if args.UserID == user.UserID {
+			// Create a note with a note ID of n-010:
+			note = &Note{NoteID: "n-010", Data: args.Note.Data}
+			user.Notes = append(user.Notes, note) // Push note.
+		}
 	}
 	// Return note:
 	return &NoteResolver{note}, nil
@@ -275,8 +277,8 @@ func main() {
 	// }
 
 	q2 := ClientQuery{
-		OpName: "Users",
-		Query: `query Users($userID: ID!) {
+		OpName: "User",
+		Query: `query User($userID: ID!) {
 			user(userID: $userID) {
 				userID
 				username
